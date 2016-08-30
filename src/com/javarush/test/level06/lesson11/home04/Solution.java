@@ -9,7 +9,7 @@ public class Solution
     public int step;
 
     public static void main(String[] args) {
-        method1();
+        //TODODODOmethod1();
     }
 
     public void method1() {
